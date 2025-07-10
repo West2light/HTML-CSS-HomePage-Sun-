@@ -67,5 +67,6 @@ Duong Quang Dong - Hust26
 Dự án thực tập - Clone trang chủ Sun* Inc.
 
 ---
+## Link demo sản phẩm: https://youtu.be/dzaPQjN_3A0
 
 > **Note**: Đây là dự án học tập, không phải website chính thức của Sun* Inc.
